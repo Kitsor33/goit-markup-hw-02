@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #fff;
+}
+.header {
+    justify-content: space-between;
+    align-items: center;
+    background: #FFF;
+}
+.logo {
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+.logo-text {
+    color: #2E2F42;
+}
+.nav ul {
+    list-style: none;
+}
+.navigation {
+    text-decoration: none;
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+}
+.navigation:focus, 
+.navigation:hover {
+    color: #404bbf;
+}
+.contacts {
+    font-style: normal;
+}
+.mail-tel {
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    color: #434455;
+}
+.mail-tel:focus,
+.mail-tel:hover {
+    color: #404bbf;
+}
+.hero {
+    justify-content: center;
+    align-items: center;
+    background: #2E2F42;
+}
+.hero-title {
+    color: #FFF;
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: 1.12px;
+    text-align: center;
+}
+.button {
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFF;
+    background: #4D5AE5;
+    cursor: pointer;
+}
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+}
+.advantages-title,
+.advantages-name {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.advantages-text {
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.team-section {
+    background-color: #F4F4FD;
+}
+.team-sect {
+    color: #2E2F42;
+    text-align: cen
+}
